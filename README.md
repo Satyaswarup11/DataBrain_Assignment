@@ -5,20 +5,6 @@
 ### Description
 Created a step form with multiple pages, such as Personal details, Address details, Payment details, etc. Each component represents a step in the form and includes form validation. After successful submission, it displays the submitted results.
 
-### Code
-
-```jsx
-// Import React, useState, and useForm from 'react' and 'react-hook-form' respectively
-// Import the component styles from './StepForm.css'
-
-// Define three components: PersonalDetails, AddressDetails, and PaymentDetails
-// Each component represents a step in the form and includes form validation
-
-// Create the main StepForm component that uses the three components
-// Handle form submission, track the current step, and display submitted data or form steps
-
-export default StepForm;
-```
 ### Dependencies
 - React
 - react-hook-form
@@ -48,4 +34,20 @@ Lists movie titles, images, genres, and ratings by making a request to the TVMaz
 
 ```bash
 npm install react axios
+```
+
+## Running the App
+
+1. Clone the Repository
+```bash
+git clone https://github.com/Satyaswarup11/DataBrain_Assignment.git
+cd test1 or cd test2 or cd test3
+```
+2. Install Dependencies
+```bash
+npm install
+```
+3. Start the application
+```bash
+npm start
 ```
