@@ -21,7 +21,7 @@ Created an ECommerce-like page with Bootstrap styling. The page includes a produ
 - React
 - Bootstrap
 
-## 3. Movie Show List from Open API
+## 3. Movie Show List from API
 
 ### Description
 Lists movie titles, images, genres, and ratings by making a request to the TVMaze API (https://api.tvmaze.com/search/shows?q=all). Fetch and display data from the API, including show images, names, genres, and ratings.
